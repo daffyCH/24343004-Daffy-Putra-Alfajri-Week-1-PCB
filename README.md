@@ -1,1 +1,1 @@
-# 24343004-Daffy-Putra-Alfajri-Tugas-1-Week-1-PCB
+# Kumpulan kode program pada Matakuliah Pengelolaan Citra Digital
